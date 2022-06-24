@@ -8,7 +8,7 @@
 #define echoPinOut 41
 #define trigPinOut 42
 
-int LED_PIN = 30;
+#define LED_PIN 30
 
 // XBee object
 XBee xbee = XBee();
